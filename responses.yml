@@ -1,6 +1,28 @@
+test:
+  - OwO
+  - pong! 
+  - Hello dear! 
+  - testtesttest
 help:
   - hiiiii
 hug:
-  - hugs you gently 💚
+  - *hugs you gently* 💚
+  - Of course you can have a hug! Make sure to treat yourself gently today! 
+  - Awh, of course you may have a hug! C'mere!
+  - Oh! c'mere! Of COURSE you can have a hug! 
 not_found:
-  - I don't understand that, cutie! Ask your owner to teach you how to talk to me!
+  - I don't understand that, dear! Here's how you can find out how to talk with me (INSERT GITHUB LINK HERE)
+  - I'm sorry, I don't understand! Please see my github (INSERT GITHUB LINK HERE)
+affirmation:
+  - You're doing very well and you deserve to be proud of yourself! 
+  - You're working very hard and you deserve to feel proud of yourself! 
+  - You're doing exceedingly well and you deserve to feel proud! 
+  - Make sure you're being kind to yourself! You're working so hard and you deserve the upmost kindness!
+ wisdom:
+  - Terrans need 1.5 to 3 Litres of water per day to stay happy and healthy! Go grab a sip! 
+  - You're always your harshest critic. Make sure you're kind to yourself and to what you make. You deserve it! 
+  - Remember, terrans aren't designed to run at 100% all the time. It's very important to take breaks and to understand that your energy level will change day-to-day!
+  - It's very important to treat yourself gently and with kindness. You deserve it! 
+  wiki:
+   - Here's the HDG Wiki! https://humandomestication.guide/
+   - One HDG wiki, comming right up! https://humandomestication.guide/

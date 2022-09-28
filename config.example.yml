@@ -1,0 +1,9 @@
+# https://discord.com/api/oauth2/authorize?client_id=1024370522189992067&permissions=412317173824&scope=bot
+
+token: null
+
+allowed_servers:
+  - 933548264161165343
+  - 382367629752664085
+
+reminder_channel_id: null
